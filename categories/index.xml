@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 我的数学</title>
-    <link>https://spitman.gitee.io/categories/</link>
+    <link>https://spitmaster.github.io/math-book/categories/</link>
     <description>Recent content in Categories on 我的数学</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://spitman.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://spitmaster.github.io/math-book/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://spitman.gitee.io/categories/Development/</link>
+      <link>https://spitmaster.github.io/math-book/categories/Development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://spitman.gitee.io/categories/Development/</guid>
+      <guid>https://spitmaster.github.io/math-book/categories/Development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://spitman.gitee.io/categories/golang/</link>
+      <link>https://spitmaster.github.io/math-book/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://spitman.gitee.io/categories/golang/</guid>
+      <guid>https://spitmaster.github.io/math-book/categories/golang/</guid>
       <description></description>
     </item>
     

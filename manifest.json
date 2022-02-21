@@ -1,14 +1,14 @@
 {
   "name": "我的数学",
   "short_name": "我的数学",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/math-book/",
+  "scope": "/math-book/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/math-book/favicon.svg",
       "sizes": "512x512"
     }
   ]
